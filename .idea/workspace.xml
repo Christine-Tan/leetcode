@@ -27,12 +27,29 @@
       </file>
     </leaf>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+>>>>>>> 15c3d71a1b4224a333e01edf40ab9d5a419073ff
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/EX1_1.java" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -464,12 +481,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535557697174</updated>
-      <workItem from="1535557698488" duration="29000" />
+      <workItem from="1535557698488" duration="337000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="98000" />
+=======
+    <option name="totallyTimeSpent" value="337000" />
+>>>>>>> 15c3d71a1b4224a333e01edf40ab9d5a419073ff
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
