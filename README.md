@@ -1,0 +1,2 @@
+# leetcode
+prepare for algorithm
