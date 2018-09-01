@@ -38,14 +38,14 @@ public class EX1_2 {
     }
 
     public Map countElement(String str) {
-        Map<String, Integer> map = new HashMap<>();
+        Map<Character, Integer> map = new HashMap<>();
         for (char c : str.toCharArray()) {
             if (map.containsKey(c)) {
                 int value = map.get(c);
                 value = value + 1;
-                map.put(String.valueOf(c), value);
+                map.put(c, value);
             } else {
-                map.put(String.valueOf(c), 1);
+                map.put(c, 1);
             }
         }
         return map;
