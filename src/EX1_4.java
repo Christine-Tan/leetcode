@@ -29,6 +29,7 @@ public class EX1_4 {
                 }
             }
         }
+        String s;
         //若数目为奇数的字符数<=1
         //则包含回文排列
         return odd <= 1;
